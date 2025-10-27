@@ -6,3 +6,22 @@
   ==================================================================
 -->
 
+## 10/27/2025 - Searching  
+
+At first, I hated AI cuz it didn't help.
+I searched for the components I should have brought to create the device.
+What I will need:
+
+1. Raspberry Pi 5 as a microcontroller
+2. 2 Breadboards and Jumpers ... Lots of jumpers
+3. 4 pieces of NRF24 
+4. ELECROW 10.1-Inch Resistive Touch Screen
+5. Lubed switches and Keycaps
+6. 3D printed Case for all of this stuff
+
+I guess there is more to remember, but for now, it's good ...... Maybe
+
+![RF24](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--04c45a2b7f559f856a26e3aad7c4a3b2a281b9b0/RF24.jpg)
+![raspberry-pi-5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a25c55c9d6dae5dd026e15aa17064e309602ed21/raspberry-pi-5.jpg)![aircrack-ng](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b11033d548c403e285ed04faeaf1f85360ce9675/aircrack-ng.png)
+  
+
